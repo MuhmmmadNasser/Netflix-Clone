@@ -107,5 +107,8 @@ class TitlePreviewViewController: UIViewController {
         print(url)
         webView.load(URLRequest(url: url))
         
+        //by me
+       // navigationItem.title = model.title
+        
     }
 }
