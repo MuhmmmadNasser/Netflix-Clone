@@ -650,8 +650,8 @@
             filePath = "Netflix Clone/Views/CollectionViewTableViewCell.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "90"
-            endingLineNumber = "90"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
             landmarkName = "collectionView(_:didSelectItemAt:)"
             landmarkType = "7">
             <Locations>
@@ -685,6 +685,36 @@
                   endingLineNumber = "91"
                   offsetFromSymbolStart = "502">
                </Location>
+               <Location
+                  uuid = "350174FD-716D-4741-946D-18AAFF7F7F18 - 9b064f1b6b04114d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Netflix_Clone.VideoElement, Swift.Error&gt;) -&gt; () in Netflix_Clone.CollectionViewTableViewCell.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects%20ios/Netflix%20Clone/Netflix%20Clone/Views/CollectionViewTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "424">
+               </Location>
+               <Location
+                  uuid = "350174FD-716D-4741-946D-18AAFF7F7F18 - 9b064f1b6b04114d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Netflix_Clone.VideoElement, Swift.Error&gt;) -&gt; () in Netflix_Clone.CollectionViewTableViewCell.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects%20ios/Netflix%20Clone/Netflix%20Clone/Views/CollectionViewTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "502">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -698,8 +728,8 @@
             filePath = "Netflix Clone/Views/CollectionViewTableViewCell.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "98"
-            endingLineNumber = "98"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
             landmarkName = "collectionView(_:didSelectItemAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -714,8 +744,8 @@
             filePath = "Netflix Clone/Views/CollectionViewTableViewCell.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "101"
-            endingLineNumber = "101"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
             landmarkName = "collectionView(_:didSelectItemAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -730,8 +760,8 @@
             filePath = "Netflix Clone/Views/CollectionViewTableViewCell.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "99"
-            endingLineNumber = "99"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
             landmarkName = "collectionView(_:didSelectItemAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -746,8 +776,8 @@
             filePath = "Netflix Clone/Views/CollectionViewTableViewCell.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "102"
-            endingLineNumber = "102"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
             landmarkName = "collectionView(_:didSelectItemAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1000,6 +1030,134 @@
             startingLineNumber = "108"
             endingLineNumber = "108"
             landmarkName = "configure(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87FA187A-2506-4047-8D4F-4B44500125FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix Clone/Controllers/Core/DownloadViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "fetchLocalStorageForDownload()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87FA187A-2506-4047-8D4F-4B44500125FA - 1b5143d6bd2bb77b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Netflix_Clone.TitleItem&gt;, Swift.Error&gt;) -&gt; () in Netflix_Clone.DownloadViewController.fetchLocalStorageForDownload() -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects%20ios/Netflix%20Clone/Netflix%20Clone/Controllers/Core/DownloadViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "87FA187A-2506-4047-8D4F-4B44500125FA - 9119fd0394e44436"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;Netflix_Clone.TitleItem&gt;, Swift.Error&gt;) -&gt; () in Netflix_Clone.DownloadViewController.fetchLocalStorageForDownload() -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects%20ios/Netflix%20Clone/Netflix%20Clone/Controllers/Core/DownloadViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "289E1089-CB86-4396-96BF-9C517C787E2A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix Clone/Controllers/Core/DownloadViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "fetchLocalStorageForDownload()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "289E1089-CB86-4396-96BF-9C517C787E2A - 1b5143d6bd2bb4d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Netflix_Clone.TitleItem&gt;, Swift.Error&gt;) -&gt; () in Netflix_Clone.DownloadViewController.fetchLocalStorageForDownload() -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects%20ios/Netflix%20Clone/Netflix%20Clone/Controllers/Core/DownloadViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "922">
+               </Location>
+               <Location
+                  uuid = "289E1089-CB86-4396-96BF-9C517C787E2A - 1b5143d6bd2bb4d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Netflix_Clone.TitleItem&gt;, Swift.Error&gt;) -&gt; () in Netflix_Clone.DownloadViewController.fetchLocalStorageForDownload() -&gt; ()"
+                  moduleName = "Netflix Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects%20ios/Netflix%20Clone/Netflix%20Clone/Controllers/Core/DownloadViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F42CEE1A-4008-40FC-8080-93F9A77C0217"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix Clone/Controllers/Core/DownloadViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetchLocalStorageForDownload()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B0B7743-141C-4FE8-B0FC-DC47276CF043"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netflix Clone/Controllers/Core/DownloadViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetchLocalStorageForDownload()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
